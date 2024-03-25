@@ -13,6 +13,7 @@ del proyecto, demuestra lo basico aprendido en el curso.</h5>
 + **Google:** para fuentes e imagenes
 
 ## Vista del proyecto
+![DEMO](/imagenes/CapturaMiprimerapagina.png)
 
 ## Licencia
 Distibuido por la licencia MIT. Consulta **LINCENSE** para obtener más información
